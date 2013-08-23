@@ -6,7 +6,7 @@ Optimized for LUBAN 3D printing controller, made by 2 different thickness plywoo
 ##Change Notes
 
 1. Enlarge the 4 hole sizes to 10mm Diameter for BB
-2. 
+2. Duplicate the extruder mount position for dual extruders
 3. Remove the central text about board connections
 4. Remove the holes for controller board
 5. Add TONYLABS Logo (Lower down) on the front panel and the Z platform.
